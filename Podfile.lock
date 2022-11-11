@@ -1,0 +1,30 @@
+PODS:
+  - HWPanModal (0.8.3)
+  - MJExtension (3.3.0)
+  - SDAutoLayout (2.2.1)
+  - SDWebImage (5.10.0):
+    - SDWebImage/Core (= 5.10.0)
+  - SDWebImage/Core (5.10.0)
+
+DEPENDENCIES:
+  - HWPanModal
+  - MJExtension
+  - SDAutoLayout
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - HWPanModal
+    - MJExtension
+    - SDAutoLayout
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  HWPanModal: 3dda514178d4320a475451fad9ac941a0e0ae777
+  MJExtension: 01704cca2b60a214c10761b6491eab74069d68a9
+  SDAutoLayout: 8bf6b3bbc8b01f775d4defbb4fda2ace805461be
+  SDWebImage: 9169792e9eec3e45bba2a0c02f74bf8bd922d1ee
+
+PODFILE CHECKSUM: a45ff4fec38621784ff98e0290299528dda3965f
+
+COCOAPODS: 1.10.0
